@@ -37,9 +37,8 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
   </a>
 </p>
 
-## My GitHub Stats
+## My Stats
 ![](./profile-3d-contrib/profile-night-view.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amax3se&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
