@@ -39,3 +39,8 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ## My GitHub Stats
 ![](./profile-3d-contrib/profile-night-view.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amax3se&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
