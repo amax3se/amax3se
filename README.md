@@ -42,5 +42,74 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amax3se&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 73 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+🌆 Daytime                22 commits          ███████████████████░░░░░░   75.86 % 
+🌃 Evening                6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   9 commits           ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Tuesday                  6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Wednesday                9 commits           ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Sunday                   3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   1 repo              █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/06/2026 11:20:44 UTC
 <!--END_SECTION:waka-->
 
