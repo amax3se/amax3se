@@ -1,11 +1,11 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Hi there, my name is amax3se! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =============================================================================================================
-My name is amax3se and I'm a student. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
+I'm a student developer. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mihaillazutkin3@gmail.com](mailto:mihaillazutkin3@gmail.com)
 * 🚀  I'm currently working on [Chordie bot](http://github.com/amax3se/Chordie_bot)
 * 🧠  I'm currently learning C# and Cybersecurity now
-* 💬  Ask me about I use tabs over spaces
+* 💬  I use tabs over spaces
 
 ## Skills
 <p align="left">
@@ -13,7 +13,29 @@ My name is amax3se and I'm a student. I started by learning HTML and CSS with my
 </p>
 
 ## Socials
-<p align="left"> <a href="https://www.github.com/amax3se" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/amax3se" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> 
+    </picture> 
+  </a> 
+  <a href="https://open.spotify.com/user/31ho4vfscgelliu6un7b3zpj4wou?si=224724e738464859" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96&theme=github&color=%23000000" /> 
+      <img src="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96" width="32" height="32" alt="GitHub" title="Spotify" /> 
+    </picture> 
+  </a>
+  <a href="https://www.reddit.com/user/Amaxese/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" /> 
+      <img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" width="32" height="32" alt="GitHub" title="Spotify" /> 
+    </picture> 
+  </a>
+</p>
 
 ## My GitHub Stats
 ![](./profile-3d-contrib/profile-night-view.svg)
