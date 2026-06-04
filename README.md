@@ -1,5 +1,5 @@
-Hi there, my name is amax3se! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-=============================================================================================================
+![Header](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/github-header-banner(2).png)
+
 I'm a student developer. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mihaillazutkin3@gmail.com](mailto:mihaillazutkin3@gmail.com)
