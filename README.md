@@ -41,13 +41,13 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.32%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 362 Bytes Used in GitHub's Storage 
+> 📦 367 Bytes Used in GitHub's Storage 
  > 
 > 🏆 59 Contributions in the Year 2026
  > 
@@ -71,18 +71,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 18 mins       █████████████████░░░░░░░░   68.73 % 
-Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JavaScript               7 hrs 19 mins       █████████████████░░░░░░░░   66.70 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🐱‍💻 Projects: 
-Max_Support_bot          6 hrs 45 mins       ████████████████░░░░░░░░░   63.66 % 
-botmax                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-chordie-guitar_bot       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Chordie_bot              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-musicPlayer              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Max_Support_bot          6 hrs 45 mins       ███████████████░░░░░░░░░░   61.62 % 
+botmax                   2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+chordie-guitar_bot       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+musicPlayer              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Chordie_bot              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,6 +99,6 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 20:38:07 UTC
+ Last Updated on 09/06/2026 20:23:24 UTC
 <!--END_SECTION:waka-->
 
