@@ -2,8 +2,7 @@
 
 I'm a student developer. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [mihaillazutkin3@gmail.com](mailto:mihaillazutkin3@gmail.com)
-* 🚀  I'm currently working on [Chordie bot](http://github.com/amax3se/Chordie_bot)
+* 🚀  I'm currently working on [Vibe Player](https://github.com/amax3se/vibe-player)
 * 🧠  I'm currently learning C# and Cybersecurity now
 * 💬  I use tabs over spaces
 
