@@ -40,15 +40,15 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.15%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.20%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 804 Bytes Used in GitHub's Storage 
+> 📦 834 Bytes Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2026
+> 🏆 127 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,9 +59,9 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-🌆 Daytime                68 commits          ████████████░░░░░░░░░░░░░   49.28 % 
-🌃 Evening                51 commits          █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌆 Daytime                68 commits          ████████████░░░░░░░░░░░░░   48.57 % 
+🌃 Evening                51 commits          █████████░░░░░░░░░░░░░░░░   36.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -70,18 +70,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs               █████████░░░░░░░░░░░░░░░░   37.27 % 
-Python                   3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-CSS                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JavaScript               4 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.50 % 
+Python                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+CSS                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🐱‍💻 Projects: 
-vibePlayer               5 hrs 58 mins       ██████████████░░░░░░░░░░░   55.49 % 
-music-to-notes           3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
-support-bot              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-support bot              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-coding                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+vibePlayer               6 hrs 25 mins       █████████████████░░░░░░░░   67.05 % 
+music-to-notes           1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+support-bot              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+support bot              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+coding                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 19:51:11 UTC
+ Last Updated on 29/06/2026 20:19:30 UTC
 <!--END_SECTION:waka-->
 
