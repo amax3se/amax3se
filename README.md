@@ -40,13 +40,13 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.47%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 900 Bytes Used in GitHub's Storage 
+> 📦 907 Bytes Used in GitHub's Storage 
  > 
 > 🏆 139 Contributions in the Year 2026
  > 
@@ -70,16 +70,16 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 30 mins       █████████████████░░░░░░░░   68.43 % 
-CSS                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JavaScript               6 hrs 59 mins       ████████████████████░░░░░   79.14 % 
+CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-vibePlayer               8 hrs 38 mins       ████████████████████░░░░░   78.71 % 
-support-bot              1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-checker-max              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+vibePlayer               6 hrs 29 mins       ██████████████████░░░░░░░   73.52 % 
+support-bot              1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+checker-max              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 coding                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -98,6 +98,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 19:55:46 UTC
+ Last Updated on 04/07/2026 19:42:19 UTC
 <!--END_SECTION:waka-->
 
