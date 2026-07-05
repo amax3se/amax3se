@@ -40,13 +40,13 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.47%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 907 Bytes Used in GitHub's Storage 
+> 📦 910 Bytes Used in GitHub's Storage 
  > 
 > 🏆 139 Contributions in the Year 2026
  > 
@@ -70,17 +70,17 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 59 mins       ████████████████████░░░░░   79.14 % 
-CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JavaScript               5 hrs 56 mins       ████████████████████░░░░░   81.41 % 
+CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-vibePlayer               6 hrs 29 mins       ██████████████████░░░░░░░   73.52 % 
-support-bot              1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-checker-max              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-coding                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+vibePlayer               4 hrs 57 mins       █████████████████░░░░░░░░   67.92 % 
+support-bot              1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+checker-max              43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+coding                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,6 +98,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:42:19 UTC
+ Last Updated on 05/07/2026 19:48:32 UTC
 <!--END_SECTION:waka-->
 
