@@ -46,7 +46,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 **🐱 My GitHub Data** 
 
-> 📦 954 Bytes Used in GitHub's Storage 
+> 📦 976 Bytes Used in GitHub's Storage 
  > 
 > 🏆 140 Contributions in the Year 2026
  > 
@@ -70,10 +70,12 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     8 mins              ██████████████████░░░░░░░   71.67 % 
+CSS                      2 mins              ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vibePlayer               11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,6 +93,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 19:55:59 UTC
+ Last Updated on 14/07/2026 19:49:58 UTC
 <!--END_SECTION:waka-->
 
