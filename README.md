@@ -40,8 +40,6 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2018%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -70,14 +68,14 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               46 mins             █████████████████░░░░░░░░   68.84 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JavaScript               1 hr 6 mins         ███████████████████░░░░░░   75.93 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-vibePlayer               1 hr 4 mins         ████████████████████████░   95.16 % 
-coding                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+vibePlayer               1 hr 24 mins        ████████████████████████░   96.26 % 
+coding                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,6 +93,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:50:42 UTC
+ Last Updated on 23/07/2026 19:53:18 UTC
 <!--END_SECTION:waka-->
 
