@@ -40,6 +40,8 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%203%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -93,6 +95,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:52:34 UTC
+ Last Updated on 25/07/2026 19:40:07 UTC
 <!--END_SECTION:waka-->
 
