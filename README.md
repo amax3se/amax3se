@@ -70,14 +70,11 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 24 mins       █████████████████████░░░░   83.50 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               2 hrs 22 mins       ████████████████████████░   97.58 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-vibePlayer               2 hrs 50 mins       █████████████████████████   98.11 % 
-coding                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+vibePlayer               2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,6 +92,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:40:07 UTC
+ Last Updated on 26/07/2026 19:41:19 UTC
 <!--END_SECTION:waka-->
 
