@@ -40,6 +40,10 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,11 +72,11 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 22 mins       ████████████████████████░   97.58 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript               2 hrs 22 mins       ████████████████████████░   97.85 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-vibePlayer               2 hrs 26 mins       █████████████████████████   100.00 % 
+vibePlayer               2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,6 +100,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:57:55 UTC
+ Last Updated on 29/07/2026 19:50:09 UTC
 <!--END_SECTION:waka-->
 
