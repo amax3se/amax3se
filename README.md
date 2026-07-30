@@ -72,11 +72,11 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 22 mins       ████████████████████████░   97.85 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JavaScript               1 hr 57 mins        ████████████████████████░   97.39 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🐱‍💻 Projects: 
-vibePlayer               2 hrs 25 mins       █████████████████████████   100.00 % 
+vibePlayer               2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,6 +100,6 @@ C++                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:50:09 UTC
+ Last Updated on 30/07/2026 19:59:13 UTC
 <!--END_SECTION:waka-->
 
