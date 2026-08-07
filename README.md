@@ -40,6 +40,10 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -54,6 +58,35 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌆 Daytime                79 commits          ████████████░░░░░░░░░░░░░   46.75 % 
+🌃 Evening                53 commits          ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 hr 11 mins        █████████████████████░░░░   84.62 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🐱‍💻 Projects: 
+vibePlayer               1 hr 24 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -70,6 +103,6 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:20:38 UTC
+ Last Updated on 07/08/2026 19:25:52 UTC
 <!--END_SECTION:waka-->
 
