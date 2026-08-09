@@ -2,8 +2,8 @@
 
 I'm a student developer. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
 * 🌍  I'm based in Moscow
-* 🚀  I'm currently working on [Vibe Player](https://github.com/amax3se/vibe-player)
-* 🧠  I'm currently learning C# and Cybersecurity now
+* 🚀  I'm currently working not working on any project
+* 🧠  I'm currently learning [C#](https://github.com/amax3se/CSharp-projects) and GameDev now
 * 💬  I use tabs over spaces
 
 ## Skills
