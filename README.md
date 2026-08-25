@@ -39,7 +39,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -47,7 +47,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 kB Used in GitHub's Storage 
+> 📦 1.5 kB Used in GitHub's Storage 
  > 
 > 🏆 170 Contributions in the Year 2026
  > 
@@ -71,17 +71,14 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ████████████████████████░   94.27 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   4 hrs 24 mins       █████████████████████████   99.01 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-music-to-notes           3 hrs 49 mins       ███████████████████████░░   93.72 % 
-support-bot              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-coding                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-vibePlayer               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+music-to-notes           4 hrs 25 mins       █████████████████████████   99.41 % 
+coding                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+support-bot              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,6 +103,6 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:07:32 UTC
+ Last Updated on 25/08/2026 19:06:05 UTC
 <!--END_SECTION:waka-->
 
