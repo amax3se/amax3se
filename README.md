@@ -71,15 +71,10 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   31 mins             ███████████████████████░░   92.45 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-music-to-notes           34 mins             █████████████████████████   99.48 % 
-support-bot              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-coding                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,6 +99,6 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:56:44 UTC
+ Last Updated on 02/09/2026 21:10:13 UTC
 <!--END_SECTION:waka-->
 
