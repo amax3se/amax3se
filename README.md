@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/github-header-banner(2).png)
 
 I'm a student developer. I started by learning HTML and CSS with my teacher at school. Then I took a Python course, after which there was C++ and Java app development with my friend. This year, I've been diving into AI agents using Python and studying computer networks.
-* 🚀  I'm currently working not working on any project
+* 🚀  I'm currently working on my 2d Unity game
 * 🧠  I'm currently learning [C#](https://github.com/amax3se/CSharp-projects) and GameDev now
 * 💬  I use tabs over spaces
 
@@ -50,8 +50,6 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
 > 🏆 170 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
