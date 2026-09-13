@@ -49,7 +49,9 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
@@ -58,10 +60,10 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌆 Daytime                87 commits          ████████████░░░░░░░░░░░░░   47.54 % 
-🌃 Evening                59 commits          ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌆 Daytime                87 commits          ████████████░░░░░░░░░░░░░   47.28 % 
+🌃 Evening                59 commits          ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 
@@ -97,6 +99,6 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:42:43 UTC
+ Last Updated on 13/09/2026 20:58:40 UTC
 <!--END_SECTION:waka-->
 
