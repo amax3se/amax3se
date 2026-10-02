@@ -43,27 +43,27 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.40%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.74%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-🌆 Daytime                88 commits          ████████████░░░░░░░░░░░░░   46.81 % 
-🌃 Evening                62 commits          ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌆 Daytime                91 commits          ████████████░░░░░░░░░░░░░   47.64 % 
+🌃 Evening                62 commits          ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
@@ -88,11 +88,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Kotlin                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
@@ -102,6 +102,6 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:48:15 UTC
+ Last Updated on 02/10/2026 22:23:41 UTC
 <!--END_SECTION:waka-->
 
