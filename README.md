@@ -39,7 +39,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -47,7 +47,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 **🐱 My GitHub Data** 
 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
 > 🏆 181 Contributions in the Year 2026
  > 
@@ -71,12 +71,15 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 56 mins       █████████████████████████   99.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   6 hrs 39 mins       █████████████████████████   98.83 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-реприсер                 3 hrs 51 mins       ████████████████████████░   97.88 % 
-coding                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+реприсер                 3 hrs 51 mins       ██████████████░░░░░░░░░░░   57.30 % 
+getting_answers          2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+coding                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+repricer                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,6 +105,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:23:41 UTC
+ Last Updated on 03/10/2026 21:31:54 UTC
 <!--END_SECTION:waka-->
 
