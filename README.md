@@ -39,9 +39,9 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -71,24 +71,38 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 27 mins       ███████████████████████░░   91.40 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   8 hrs 34 mins       ██████████████████████░░░   88.78 % 
+C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-реприсер                 3 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.37 % 
-getting_answers          2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.27 % 
-repricer                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-audio-analyzer           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-coding                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+реприсер                 3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
+getting_answers          2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+repricer                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+audio-analyzer           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+coding                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (1.3%)
+
+✍️ 0 lines written by AI, 1,010 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 6 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,6 +122,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:41:51 UTC
+ Last Updated on 06/10/2026 00:12:05 UTC
 <!--END_SECTION:waka-->
 
