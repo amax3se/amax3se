@@ -71,26 +71,26 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 34 mins       ██████████████████████░░░   88.78 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   6 hrs 41 mins       ██████████████████████░░░   86.07 % 
+C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🐱‍💻 Projects: 
-реприсер                 3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
-getting_answers          2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-repricer                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-audio-analyzer           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-coding                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+getting_answers          2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
+repricer                 2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+реприсер                 2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+audio-analyzer           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+coding                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (1.3%)
+⏱ AI Coding Time: 7 mins (1.62%)
 
-✍️ 0 lines written by AI, 1,010 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 996 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -122,6 +122,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:43:05 UTC
+ Last Updated on 07/10/2026 23:13:06 UTC
 <!--END_SECTION:waka-->
 
