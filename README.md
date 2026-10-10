@@ -71,26 +71,25 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 37 mins       ████████████████████░░░░░   81.05 % 
-C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python                   1 hr 54 mins        ████████████████░░░░░░░░░   65.56 % 
+C++                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🐱‍💻 Projects: 
-getting_answers          2 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.51 % 
-repricer                 2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
-audio-analyzer           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-coding                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-ObsidianStorage          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+repricer                 2 hrs 9 mins        ███████████████████░░░░░░   74.32 % 
+audio-analyzer           29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+coding                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+ObsidianStorage          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (2.2%)
+⏱ AI Coding Time: 7 mins (4.31%)
 
-✍️ 0 lines written by AI, 263 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 103 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -122,6 +121,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:46:25 UTC
+ Last Updated on 10/10/2026 21:54:02 UTC
 <!--END_SECTION:waka-->
 
