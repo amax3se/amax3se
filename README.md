@@ -71,36 +71,16 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ███████████████████░░░░░░   74.59 % 
-Git Config               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-repricer                 1 hr 22 mins        ███████████████████████░░   91.59 % 
-ObsidianStorage          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-audio-analyzer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (8.36%)
-
-✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -120,6 +100,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:10:12 UTC
+ Last Updated on 13/10/2026 00:52:30 UTC
 <!--END_SECTION:waka-->
 
