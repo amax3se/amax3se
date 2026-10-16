@@ -39,17 +39,17 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.58%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.0 kB Used in GitHub's Storage 
+> 📦 1.9 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2026
+> 🏆 187 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,9 +60,9 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌆 Daytime                95 commits          ████████████░░░░░░░░░░░░░   48.72 % 
-🌃 Evening                62 commits          ████████░░░░░░░░░░░░░░░░░   31.79 % 
+🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌆 Daytime                95 commits          ████████████░░░░░░░░░░░░░   48.47 % 
+🌃 Evening                59 commits          ████████░░░░░░░░░░░░░░░░░   30.10 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
@@ -71,11 +71,12 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   22 mins             █████████████████████████   100.00 % 
+Python                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reader                   22 mins             █████████████████████████   99.79 % 
-coding                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+coding                   26 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
+reader                   22 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
+getting_answers          15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +90,7 @@ No AI Coding Activity Tracked This Week
 ```text
 Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
 JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
@@ -101,6 +102,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:33:36 UTC
+ Last Updated on 16/10/2026 21:26:34 UTC
 <!--END_SECTION:waka-->
 
