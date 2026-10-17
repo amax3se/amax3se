@@ -39,7 +39,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20mins-blue?style=flat)
 
@@ -71,12 +71,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████████████████   100.00 % 
+Python                   1 hr 10 mins        █████████████░░░░░░░░░░░░   50.92 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Git Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🐱‍💻 Projects: 
-coding                   26 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
-reader                   22 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
-getting_answers          15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+best-market1             31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+coding                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+reader                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+getting_answers          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+best-market              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,6 +108,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:26:34 UTC
+ Last Updated on 17/10/2026 20:46:15 UTC
 <!--END_SECTION:waka-->
 
