@@ -71,18 +71,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 10 mins        █████████████░░░░░░░░░░░░   50.92 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Git Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   1 hr 10 mins        █████████████░░░░░░░░░░░░   50.36 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-best-market1             31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-coding                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-reader                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-getting_answers          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-best-market              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+best-market1             31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+coding                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+reader                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+getting_answers          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+best-market              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:55:45 UTC
+ Last Updated on 19/10/2026 22:30:48 UTC
 <!--END_SECTION:waka-->
 
