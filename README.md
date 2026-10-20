@@ -39,7 +39,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20mins-blue?style=flat)
 
@@ -71,18 +71,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 10 mins        █████████████░░░░░░░░░░░░   50.36 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Python                   1 hr 11 mins        █████████████░░░░░░░░░░░░   50.58 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Git Config               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-best-market1             31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+best-market1             31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 coding                   31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-reader                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-getting_answers          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-best-market              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+reader                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+getting_answers          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+best-market              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:30:48 UTC
+ Last Updated on 20/10/2026 21:45:39 UTC
 <!--END_SECTION:waka-->
 
