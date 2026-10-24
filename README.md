@@ -47,7 +47,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 **🐱 My GitHub Data** 
 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 2.0 kB Used in GitHub's Storage 
  > 
 > 🏆 188 Contributions in the Year 2026
  > 
@@ -71,18 +71,11 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 
 ```text
 💬 Programming Languages: 
-Markdown                 27 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
-Other                    19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Git Config               17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Git Config               1 min               █████████████████████░░░░   84.02 % 
+Python                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 
 🐱‍💻 Projects: 
-best-market1             31 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
-best-market              14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-flutter_application_1    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-agent-homework           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-coding                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+sdamgia-answers          2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +101,6 @@ C++                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/amax3se/amax3se/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:32:20 UTC
+ Last Updated on 24/10/2026 21:00:34 UTC
 <!--END_SECTION:waka-->
 
