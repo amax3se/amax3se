@@ -5,7 +5,7 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 * 🧠  I'm currently learning [C#](https://github.com/amax3se/CSharp-projects) and GameDev now
 * 💬  I use tabs over spaces
 
-![Favorite music](https://raw.githubusercontent.com/amax3se/amax3se/svg/spotify-tracks.svg)
+![Favorite music](https://raw.githubusercontent.com/amax3se/amax3se/blob/main/svg/spotify-tracks.svg)
 
 ## Skills
 <p align="left">
