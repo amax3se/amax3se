@@ -54,27 +54,18 @@ I'm a student developer. I started by learning HTML and CSS with my teacher at s
 </p>
 
 ## Socials
-<p align="left"> 
-  <a href="https://www.github.com/amax3se" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> 
-    </picture> 
+<p align="center"> 
+  <a href="https://open.spotify.com/playlist/4OTDPVja9nKMvvwck4HlO9?si=nWG6qQIjTX2ffcxVSc_vtw" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/spotify" width="64" height="64" alt="spotify" title="spotify" /> 
   </a> 
-  <a href="https://open.spotify.com/user/31ho4vfscgelliu6un7b3zpj4wou?si=224724e738464859" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96&theme=github&color=%23000000" /> 
-      <img src="https://www.readmecodegen.com/api/social-icon?name=spotify&size=96" width="32" height="32" alt="GitHub" title="Spotify" /> 
-    </picture> 
+  <a href="https://amax3se.itch.io" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/itchdotio" alt="itch-io" title="itch-io" width="64" height="64"  /> 
   </a>
   <a href="https://www.reddit.com/user/Amaxese/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" /> 
-      <img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=96" width="32" height="32" alt="GitHub" title="Spotify" /> 
-    </picture> 
+    <img src="https://cdn.simpleicons.org/reddit" alt="Reddit" title="Reddit" width="64" height="64"  /> 
+  </a>
+  <a href="https://habr.com/ru/users/amax3se/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/habr" alt="habr" title="habr" width="64" height="64"  /> 
   </a>
 </p>
 
